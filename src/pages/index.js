@@ -20,9 +20,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <Navbar />
     <MainBanner />
-    <div>
-      <h1>ELIAS JERIS KHSHSAIBOUN</h1>
-    </div>
+
     <Features />
     <ServicesArea />
     <OurFeatures />
