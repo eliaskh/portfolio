@@ -37,7 +37,7 @@ module.exports = {
     {
       resolve: `gatsby-source-strapi`,
       options: {
-        apiURL: `https://secure-depths-28414.herokuapp.com/`,
+        apiURL: `https://secure-depths-28414.herokuapp.com`,
         // apiURL: `https://creative-lab.netlify.app`,
         queryLimit: 1000,
         contentTypes: [
